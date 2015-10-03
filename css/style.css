@@ -6,6 +6,9 @@
 	border: 5px solid black;
 }
 
+.project:hover{
+	background-color: blue;
+}
 
 .container {
 	width: 900px;
